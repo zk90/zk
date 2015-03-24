@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://zhoukeke.com
+highlighter: pygments
+name: 年轻贵在拼搏
+description: 个人博客，写一些学习和工作上的经验
+author: 周可可
+email: zk90@vip.qq.com
+weibo: 1674258120
+hub: zk90
+safe: true
+paginate: 100
+about: "测试"
