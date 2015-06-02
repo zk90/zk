@@ -1,8 +1,8 @@
 markdown: rdiscount
-permalink: /:title/
+permalink: /:year/:month/:day/:title
 url: http://zhoukeke.com
 highlighter: pygments
-name: 年轻贵在拼搏
+name: 生命不息奋斗不止
 description: 个人博客，写一些学习和工作上的经验
 author: 周可可
 email: zk90@vip.qq.com
