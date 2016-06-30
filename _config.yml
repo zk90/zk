@@ -8,6 +8,7 @@ author: 周可可
 email: zk90@vip.qq.com
 weibo: 1674258120
 hub: zk90
-safe: true
-paginate: 100
+safe: false
+gems: [jekyll-paginate]
+paginate: 10
 about: "测试"

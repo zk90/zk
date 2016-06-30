@@ -13,7 +13,6 @@ tags: [GitHub Pages,jkl]
 
 理想写博环境，git+github+markdown+jekyll；
 
->我用的是.com顶级域名，在[万网](http://www.net.cn)上买的,原价55元/年，现在活动首年29元。
 
 >[GitHub Pages](https://help.github.com/articles/what-are-github-pages/)免费的静态站点，三个特点：免费托管、自带主题、支持自制页面和Jekyll。有300M的免费空间一般够用了。
 
@@ -22,4 +21,4 @@ tags: [GitHub Pages,jkl]
 >使用[搜狐畅言](http://changyan.sohu.com)做的评论框。
 
 
-现在博客功能还不全，但是会逐步完善的，会在以后的博文中分享。
+\
