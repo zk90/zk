@@ -3,7 +3,7 @@ layout: post
 title: 我的第一篇博客
 categories: 博客
 uuid: 81fc8825-9ffb-4e0c-8ba2-7eda455ffa41
-tags: [GitHub Pages,jkl]
+tags: [GitHub Pages]
 ---
 
 
@@ -20,5 +20,3 @@ tags: [GitHub Pages,jkl]
 
 >使用[搜狐畅言](http://changyan.sohu.com)做的评论框。
 
-
-\
