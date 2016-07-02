@@ -3,7 +3,7 @@ layout: post
 title: MarkdownPad2.5 注册码
 categories: 常用软件
 uuid: 8f8164b5-71c7-49d6-b951-f3414b09959e
-tags: [MarkdownPad2，注册码]
+tags: [MarkdownPad2,注册码]
 ---
 
 邮箱：
