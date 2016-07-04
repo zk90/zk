@@ -12,3 +12,8 @@ safe: false
 gems: [jekyll-paginate]
 paginate: 10
 about: "测试"
+comment: true
+#uyan: 
+#    uid: 2105226
+duoshuo: 
+    shortname: zk90
